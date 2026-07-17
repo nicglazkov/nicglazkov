@@ -1,6 +1,7 @@
 ### Live services
 
-- **[ca-roads-mcp](https://github.com/nicglazkov/ca-roads-mcp)** - California road conditions: web app, route planner, 3,300 cameras, MCP server for AI assistants.
+- **[commutescout](https://commutescout.com)** - live California road map, route planner, and AI assistant; also an MCP server so your assistant can use it too.
+- **[fiberwatch](https://getfiberwatch.com)** - type any US address, see every ISP that files coverage there, and get an email when something better arrives. Built on 49 million FCC records.
 - **[outagewatch](https://github.com/nicglazkov/outagewatch)** - PG&E outage alerts with live restoration estimates.
 
 ### Apps
