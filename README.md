@@ -1,6 +1,6 @@
 ### Live services
 
-- **[commutescout](https://commutescout.com)** - live California road map, route planner, and AI assistant; also an MCP server so your assistant can use it too.
+- **[commutescout](https://commutescout.com)** - live road conditions for 38 US states: map, route planner, toll pricing, and AI assistant; also an MCP server so your assistant can use it too.
 - **[fiberwatch](https://getfiberwatch.com)** - type any US address, see every ISP that files coverage there, and get an email when something better arrives. Built on 49 million FCC records.
 - **[outagewatch](https://github.com/nicglazkov/outagewatch)** - PG&E outage alerts with live restoration estimates. iPhone ([TestFlight](https://testflight.apple.com/join/YqeVwyat)) and Android.
 
@@ -20,7 +20,7 @@ All three install from my [Homebrew tap](https://github.com/nicglazkov/homebrew-
 
 ### Longer-running
 
-- **[Chalkboard](https://chalkboard.studio)** - any topic into a narrated math animation. Private beta.
+- **[Chalkboard](https://chalkboard.studio)** - any topic into a narrated math animation. Open source; hosted version in private beta.
 - **[UR10 chess robot](https://github.com/FH-EngineeringClub/UR10_Workspace)** - a written-off industrial arm we rebuilt to play chess.
 
 ### About
