@@ -8,7 +8,7 @@
 
 - **[chaincheck](https://github.com/nicglazkov/chaincheck)** - Tahoe winter driving: chains, closures, storm timing, resort snow. iPhone ([TestFlight](https://testflight.apple.com/join/fAuhRHU8)) and Android.
 - **[brake-bedding](https://github.com/nicglazkov/brake-bedding)** - a brake bedding coach with live GPS speed cues. iPhone ([TestFlight](https://testflight.apple.com/join/KDtbBckw)) and Android.
-- **[highway-radar-sabre-plus](https://github.com/nicglazkov/highway-radar-sabre-plus)** - multi-source Highway Radar plugin. 140+ downloads.
+- **[highway-radar-sabre-plus](https://github.com/nicglazkov/highway-radar-sabre-plus)** - multi-source Highway Radar plugin. 240+ downloads.
 
 ### Mac utilities
 
