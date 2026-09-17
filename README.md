@@ -1,6 +1,6 @@
 ### Live services
 
-- **[commutescout](https://commutescout.com)** - live road conditions across 37 US states from 53 official agency feeds: map, route planner, toll pricing, and AI assistant; also an MCP server so your assistant can use it too.
+- **[commutescout](https://commutescout.com)** - live road conditions across 37 US states from 53 official agency feeds: map, route planner, toll pricing, and an assistant you can ask about a drive. The same data is a public REST API and an MCP server, and [Flare](https://commutescout.com/developers) lets anyone plug in their own alert source.
 - **[fiberwatch](https://getfiberwatch.com)** - type any US address, see every ISP that files coverage there, and get an email when something better arrives. Built on 49 million FCC records.
 - **[outagewatch](https://github.com/nicglazkov/outagewatch)** - PG&E outage alerts with live restoration estimates. iPhone ([TestFlight](https://testflight.apple.com/join/YqeVwyat)), Android, and an installable web app.
 
