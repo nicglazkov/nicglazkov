@@ -1,6 +1,6 @@
 ### Live services
 
-- **[commutescout](https://commutescout.com)** - live road conditions across 37 US states from 53 official agency feeds: map, route planner, toll pricing, and an assistant you can ask about a drive. The same data is a public REST API and an MCP server, and [Flare](https://commutescout.com/developers) lets anyone plug in their own alert source.
+- **[commutescout](https://commutescout.com)** - live road conditions across 37 US states from 55 official agency feeds: map, route planner, toll pricing, and an assistant you can ask about a drive. The same data is a public REST API and an MCP server, and [Flare](https://commutescout.com/developers) lets anyone plug in their own alert source.
 - **[fiberwatch](https://getfiberwatch.com)** - type any US address, see every ISP that files coverage there, and get an email when something better arrives. Built on 49 million FCC records.
 - **[outagewatch](https://github.com/nicglazkov/outagewatch)** - PG&E outage alerts with live restoration estimates. iPhone ([TestFlight](https://testflight.apple.com/join/YqeVwyat)), Android, and an installable web app.
 
@@ -8,7 +8,7 @@
 
 - **[chaincheck](https://github.com/nicglazkov/chaincheck)** - Tahoe winter driving: chains, closures, storm timing, resort snow. iPhone ([TestFlight](https://testflight.apple.com/join/fAuhRHU8)) and Android.
 - **[brake-bedding](https://github.com/nicglazkov/brake-bedding)** - a brake bedding coach with live GPS speed cues. iPhone ([TestFlight](https://testflight.apple.com/join/KDtbBckw)) and Android.
-- **[highway-radar-sabre-plus](https://github.com/nicglazkov/highway-radar-sabre-plus)** - multi-source Highway Radar plugin. 400+ downloads.
+- **[highway-radar-sabre-plus](https://github.com/nicglazkov/highway-radar-sabre-plus)** - multi-source Highway Radar plugin. 1,100+ downloads.
 
 ### Desktop utilities
 
@@ -21,6 +21,7 @@ All four install from my [Homebrew tap](https://github.com/nicglazkov/homebrew-t
 
 ### Longer-running
 
+- **[Switchboard](https://github.com/nicglazkov/switchboard)** - one board for the Claude Code chats on all your computers: see which need you, answer them, open their terminals, and start new ones on any machine. macOS, Windows, and Linux.
 - **[Chalkboard](https://chalkboard.studio)** - any topic into a narrated math animation. Open source; hosted version in private beta.
 - **[UR10 chess robot](https://github.com/FH-EngineeringClub/UR10_Workspace)** - a written-off industrial arm we rebuilt to play chess.
 
